@@ -1,0 +1,44 @@
+.Appp{
+  background: linear-gradient(
+    90deg,
+    rgb(39, 176, 255) 0%,
+    rgb(0, 232, 236) 100%,
+    rgb(0,232,200) 100%
+  );
+
+}
+.nav-wrapper{
+  background-color: black; 
+}
+h4{
+  text-align:center;
+}
+p{
+  text-align:justify;
+}
+.img{
+  margin-left: auto;
+  margin-right: auto;
+}
+.mycard{
+  margin-top: 30px;
+  background: linear-gradient(
+    90deg,
+    rgb(39, 176, 255) 0%,
+    rgb(0, 232, 236) 100%,
+    rgb(0,232,200) 100%
+  );
+}
+.auth-card{
+  padding: 10px 500px;
+  text-align:center;
+  margin: 100px auto;
+  max-width: 40;
+}
+
+.input-feild imput[type=text]:focus{
+  border-bottom: 1px solid rgb(8,93,252) !important;
+  box-shadow: 0 1px 0 0 rgb(8,93,252) !important;
+}
+
+
