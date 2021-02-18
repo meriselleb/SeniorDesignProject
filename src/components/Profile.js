@@ -1,8 +1,12 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
+import Navigation from './Navigation'
 
 const Profile = () => {
     return(
+        <div>
+            <Navigation/>
+        
         <div  style = {{
             display:'flex',
             justifyContent:"space-around",
@@ -10,6 +14,7 @@ const Profile = () => {
             maxWidth:"1200px"
 
         }}>
+            
             <div style={{width:'200px'}}>
                 <img className = "image" style = {{width:"200px", height:"200px", borderRadius:"100px"}}
                 src = "images/person.jpg"
@@ -68,6 +73,7 @@ const Profile = () => {
             </div>
             
             
+        </div>
         </div>
     )
 }
