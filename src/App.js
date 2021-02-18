@@ -16,7 +16,7 @@ import SignUp from './components/SignUp'
 function App() {
   return (
     <div className="App">
-      <Navigation/>
+      
       <switch>
         <Route exact path = "/" component = {Home}/>
         <Route path = "/Messages" component = {Messages}/>
@@ -26,7 +26,6 @@ function App() {
         <Route path = "/Profile" component = {Profile}/>
         <Route path = "/SignIn" component = {SignIn}/>
         <Route path = "/SignUp" component = {SignUp}/>
-
       </switch>
     </div>
   );
