@@ -39,7 +39,7 @@ export default function Profile() {
                     <img style = {{width:"80px", height:"80px", borderRadius:"40px"}}
                     src = {require('../../assets/images/5year.PNG').default}/>
                     {/* <img style = {{width:"80px", height:"80px", borderRadius:"40px"}}
-                    src = "images/person.jpg"/> */}
+                    src = "src/assets/images/person.png"/> */}
                     </div>         
 
             </div>
@@ -47,21 +47,21 @@ export default function Profile() {
                 <h4 style ={{textAlign:"left",margin:"50px 0px"}}>Connections</h4>
                 <div style = {{display:"flex", justifyContent:"space-between", width:"138%"}}>
                     <img style = {{width:"150px", height:"150px", borderRadius:"75px"}}
-                    src = "images/person.jpg"/>
+                    src = "src/assets/images/person.png"/>
                     <img style = {{width:"150px", height:"150px", borderRadius:"75px"}}
-                    src = "images/person.jpg"/>
+                    src = "src/assets/images/person.png"/>
                     <img style = {{width:"150px", height:"150px", borderRadius:"75px"}}
-                    src = "images/person.jpg"/>
+                    src = "src/assets/images/person.png"/>
                     </div>
                 
                 <h4 style ={{textAlign:"left", margin:"50px 0px"}}>Possible Connections</h4>
                 <div style = {{display:"flex", justifyContent:"space-between", width:"138%"}}>
                     <img style = {{width:"150px", height:"150px", borderRadius:"75px"}}
-                    src = "images/person.jpg"/>
+                    src = "src/assets/images/person.png"/>
                     <img style = {{width:"150px", height:"150px", borderRadius:"75px"}}
-                    src = "images/person.jpg"/>
+                    src = "src/assets/images/person.png"/>
                     <img style = {{width:"150px", height:"150px", borderRadius:"75px"}}
-                    src = "images/person.jpg"/>
+                    src = "src/assets/images/person.png"/>
                     </div>
                     <h5 style ={{textAlign:"left", margin:"50px 0px"}}>To view your full activity history</h5>
                     <button className="btn waves-effect waves-light" style = {{background: "black", margin:"0px 170px"}}>
