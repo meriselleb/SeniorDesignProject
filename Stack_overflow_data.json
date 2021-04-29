@@ -1,0 +1,554 @@
+{
+ "thread": [
+  {
+   "topic": "TypeError: linear(): argument 'input' (position 1) must be Tensor, not numpy.ndarray error while using trained model",
+   "url": "https://stackoverflow.com/questions/67316491/typeerror-linear-argument-input-position-1-must-be-tensor-not-numpy-nda",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python pytorch typeerror valueerror openai-gym",
+   "author": "Ravish Jha",
+   "author_url": "https://stackoverflow.com/users/13100489/ravish-jha",
+   "views": "2 views"
+  },
+  {
+   "topic": "Handshake Issues Tornado Server and ESP32 Client",
+   "url": "https://stackoverflow.com/questions/67316484/handshake-issues-tornado-server-and-esp32-client",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python websocket arduino tornado esp32",
+   "author": "hadome",
+   "author_url": "https://stackoverflow.com/users/7941496/hadome",
+   "views": "5 views"
+  },
+  {
+   "topic": "Next Round:\"Contestant who earns a score equal to or greater than the k-th place finisher's score",
+   "url": "https://stackoverflow.com/questions/67315943/next-roundcontestant-who-earns-a-score-equal-to-or-greater-than-the-k-th-place",
+   "votes": "0",
+   "answers": "1",
+   "related_topics": "python list",
+   "author": "nobleknight",
+   "author_url": "https://stackoverflow.com/users/14429185/nobleknight",
+   "views": "9 views"
+  },
+  {
+   "topic": "Image.io instead of Skipy",
+   "url": "https://stackoverflow.com/questions/67316298/image-io-instead-of-skipy",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python python-3.x python-imageio",
+   "author": "EverydayDeveloper",
+   "author_url": "https://stackoverflow.com/users/12540328/everydaydeveloper",
+   "views": "5 views"
+  },
+  {
+   "topic": "What is the fastest way to parse large XML docs in Python?",
+   "url": "https://stackoverflow.com/questions/324214/what-is-the-fastest-way-to-parse-large-xml-docs-in-python",
+   "votes": "64",
+   "answers": "7",
+   "related_topics": "python xml performance parsing",
+   "author": "Augustin",
+   "author_url": "https://stackoverflow.com/users/4304503/augustin",
+   "views": "72k views"
+  },
+  {
+   "topic": "How can I improve my queue system - Discord.py",
+   "url": "https://stackoverflow.com/questions/67284492/how-can-i-improve-my-queue-system-discord-py",
+   "votes": "2",
+   "answers": "1",
+   "related_topics": "python discord discord.py bots youtube-dl",
+   "author": "Diacono",
+   "author_url": "https://stackoverflow.com/users/15324057/diacono",
+   "views": "51 views"
+  },
+  {
+   "topic": "generate line automatically in urls (django)",
+   "url": "https://stackoverflow.com/questions/67316470/generate-line-automatically-in-urls-django",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python django url path automatic-updates",
+   "author": "Samuel yves",
+   "author_url": "https://stackoverflow.com/users/14810427/samuel-yves",
+   "views": "4 views"
+  },
+  {
+   "topic": "How to optimize properly queryset with multiple OR conditions?",
+   "url": "https://stackoverflow.com/questions/67316270/how-to-optimize-properly-queryset-with-multiple-or-conditions",
+   "votes": "-2",
+   "answers": "0",
+   "related_topics": "python django django-rest-framework",
+   "author": "D_P",
+   "author_url": "https://stackoverflow.com/users/12428848/d-p",
+   "views": "9 views"
+  },
+  {
+   "topic": "How to align a multilevel donut chart in matplotlib?",
+   "url": "https://stackoverflow.com/questions/67316468/how-to-align-a-multilevel-donut-chart-in-matplotlib",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python matplotlib charts multi-level",
+   "author": "Bruna Lemberck",
+   "author_url": "https://stackoverflow.com/users/15792720/bruna-lemberck",
+   "views": "2 views"
+  },
+  {
+   "topic": "How do I merge the paths of python and ipython",
+   "url": "https://stackoverflow.com/questions/67316464/how-do-i-merge-the-paths-of-python-and-ipython",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python ipython",
+   "author": "Debasis Sil",
+   "author_url": "https://stackoverflow.com/users/14372112/debasis-sil",
+   "views": "6 views"
+  },
+  {
+   "topic": "Filter “False” values from a data frame with pandas (python)?",
+   "url": "https://stackoverflow.com/questions/67316128/filter-false-values-from-a-data-frame-with-pandas-python",
+   "votes": "0",
+   "answers": "1",
+   "related_topics": "python pandas dataframe matplotlib",
+   "author": "SeaBean",
+   "author_url": "https://stackoverflow.com/users/15070697/seabean",
+   "views": "14 views"
+  },
+  {
+   "topic": "Flask SQLAlchemy query, specify column names",
+   "url": "https://stackoverflow.com/questions/11530196/flask-sqlalchemy-query-specify-column-names",
+   "votes": "151",
+   "answers": "8",
+   "related_topics": "python sqlalchemy flask-sqlalchemy",
+   "author": "Tomerikoo",
+   "author_url": "https://stackoverflow.com/users/6045800/tomerikoo",
+   "views": "142k views"
+  },
+  {
+   "topic": "How to multiply tuple values in array?",
+   "url": "https://stackoverflow.com/questions/67313416/how-to-multiply-tuple-values-in-array",
+   "votes": "1",
+   "answers": "1",
+   "related_topics": "python python-3.x",
+   "author": "Pouya Esmaeili",
+   "author_url": "https://stackoverflow.com/users/13118327/pouya-esmaeili",
+   "views": "42 views"
+  },
+  {
+   "topic": "Web Scraping with Selenium and Beautiful Soup - converting into a CSV file",
+   "url": "https://stackoverflow.com/questions/67303571/web-scraping-with-selenium-and-beautiful-soup-converting-into-a-csv-file",
+   "votes": "0",
+   "answers": "1",
+   "related_topics": "python selenium beautifulsoup selenium-chromedriver export-to-csv",
+   "author": "chitown88",
+   "author_url": "https://stackoverflow.com/users/7752296/chitown88",
+   "views": "31 views"
+  },
+  {
+   "topic": "I am analysing the genres column using NLP but get error as 'list' object has no attribute 'lower' [closed]",
+   "url": "https://stackoverflow.com/questions/67315394/i-am-analysing-the-genres-column-using-nlp-but-get-error-as-list-object-has-no",
+   "votes": "-4",
+   "answers": "0",
+   "related_topics": "python pandas nlp recommendation-engine",
+   "author": "furas",
+   "author_url": "https://stackoverflow.com/users/1832058/furas",
+   "views": "14 views"
+  },
+  {
+   "topic": "How do I turn a series of IF statements into a Pythonic code line?",
+   "url": "https://stackoverflow.com/questions/67316371/how-do-i-turn-a-series-of-if-statements-into-a-pythonic-code-line",
+   "votes": "0",
+   "answers": "2",
+   "related_topics": "python list-comprehension",
+   "author": "Programmer",
+   "author_url": "https://stackoverflow.com/users/14909980/programmer",
+   "views": "36 views"
+  },
+  {
+   "topic": "Arithmetic comparison operators not working for numpy.float64?",
+   "url": "https://stackoverflow.com/questions/67313030/arithmetic-comparison-operators-not-working-for-numpy-float64",
+   "votes": "-3",
+   "answers": "0",
+   "related_topics": "python python-3.x numpy jupyter-notebook",
+   "author": "user14912884",
+   "author_url": "https://stackoverflow.com/users/14912884/user14912884",
+   "views": "32 views"
+  },
+  {
+   "topic": "Why asyncio.sleep freezes whole Task (which has websocket inside) in running state when used with aiohttp websockets?",
+   "url": "https://stackoverflow.com/questions/67316412/why-asyncio-sleep-freezes-whole-task-which-has-websocket-inside-in-running-sta",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python python-asyncio aiohttp",
+   "author": "Artiom Kozyrev",
+   "author_url": "https://stackoverflow.com/users/10311377/artiom-kozyrev",
+   "views": "4 views"
+  },
+  {
+   "topic": "“Unresolved reference 'places'”",
+   "url": "https://stackoverflow.com/questions/67315925/unresolved-reference-places",
+   "votes": "-1",
+   "answers": "1",
+   "related_topics": "python google-api python-telegram-bot",
+   "author": "DaImTo",
+   "author_url": "https://stackoverflow.com/users/1841839/daimto",
+   "views": "9 views"
+  },
+  {
+   "topic": "Python/Selenium - Can not download file in headless mode",
+   "url": "https://stackoverflow.com/questions/67316268/python-selenium-can-not-download-file-in-headless-mode",
+   "votes": "0",
+   "answers": "1",
+   "related_topics": "python selenium headless",
+   "author": "Giorgi Imerlishvili",
+   "author_url": "https://stackoverflow.com/users/8929688/giorgi-imerlishvili",
+   "views": "8 views"
+  },
+  {
+   "topic": "How to update python to latest version and set as default",
+   "url": "https://stackoverflow.com/questions/66907278/how-to-update-python-to-latest-version-and-set-as-default",
+   "votes": "0",
+   "answers": "3",
+   "related_topics": "python python-3.7 python-install",
+   "author": "traditionalzen",
+   "author_url": "https://stackoverflow.com/users/15792643/traditionalzen",
+   "views": "78 views"
+  },
+  {
+   "topic": "How To Export GCP Security Command Center Findings To BigQuery?",
+   "url": "https://stackoverflow.com/questions/67303225/how-to-export-gcp-security-command-center-findings-to-bigquery",
+   "votes": "0",
+   "answers": "1",
+   "related_topics": "python google-cloud-platform google-bigquery securitycenter cloud-security",
+   "author": "RobTheRobot16",
+   "author_url": "https://stackoverflow.com/users/10005028/robtherobot16",
+   "views": "16 views"
+  },
+  {
+   "topic": "splitting numba functions into separate modules in project for packaging",
+   "url": "https://stackoverflow.com/questions/67281045/splitting-numba-functions-into-separate-modules-in-project-for-packaging",
+   "votes": "2",
+   "answers": "2",
+   "related_topics": "python python-3.x numba python-packaging",
+   "author": "aerobiomat",
+   "author_url": "https://stackoverflow.com/users/2148416/aerobiomat",
+   "views": "37 views"
+  },
+  {
+   "topic": "Singleton class not update class member variable",
+   "url": "https://stackoverflow.com/questions/67297270/singleton-class-not-update-class-member-variable",
+   "votes": "1",
+   "answers": "1",
+   "related_topics": "python singleton",
+   "author": "Ajit",
+   "author_url": "https://stackoverflow.com/users/628116/ajit",
+   "views": "15 views"
+  },
+  {
+   "topic": "How to make a flat list out of a list of lists?",
+   "url": "https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-a-list-of-lists",
+   "votes": "4017",
+   "answers": "50",
+   "related_topics": "python list multidimensional-array flatten",
+   "author": "Oliver",
+   "author_url": "https://stackoverflow.com/users/10782538/oliver",
+   "views": "2.7m views"
+  },
+  {
+   "topic": "Python 3.X package distribution and config files",
+   "url": "https://stackoverflow.com/questions/67152331/python-3-x-package-distribution-and-config-files",
+   "votes": "0",
+   "answers": "1",
+   "related_topics": "python pip packaging resource-files",
+   "author": "user904559",
+   "author_url": "https://stackoverflow.com/users/904559/user904559",
+   "views": "21 views"
+  },
+  {
+   "topic": "Extract specific part of text from webpages",
+   "url": "https://stackoverflow.com/questions/67316050/extract-specific-part-of-text-from-webpages",
+   "votes": "-1",
+   "answers": "0",
+   "related_topics": "python web-scraping beautifulsoup",
+   "author": "Math",
+   "author_url": "https://stackoverflow.com/users/14688996/math",
+   "views": "11 views"
+  },
+  {
+   "topic": "Import all values to excel",
+   "url": "https://stackoverflow.com/questions/67316233/import-all-values-to-excel",
+   "votes": "0",
+   "answers": "1",
+   "related_topics": "python",
+   "author": "notNowOnlyCoding",
+   "author_url": "https://stackoverflow.com/users/15478995/notnowonlycoding",
+   "views": "13 views"
+  },
+  {
+   "topic": "How to fit a piecewise (alternating linear and constant segments) function to a parabolic function?",
+   "url": "https://stackoverflow.com/questions/67150016/how-to-fit-a-piecewise-alternating-linear-and-constant-segments-function-to-a",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python algorithm math curve-fitting approximation",
+   "author": "Betelgeux",
+   "author_url": "https://stackoverflow.com/users/9601960/betelgeux",
+   "views": "72 views"
+  },
+  {
+   "topic": "How to download files with Selenium inside Docker?",
+   "url": "https://stackoverflow.com/questions/67316343/how-to-download-files-with-selenium-inside-docker",
+   "votes": "0",
+   "answers": "0",
+   "related_topics": "python docker selenium",
+   "author": "ypicard",
+   "author_url": "https://stackoverflow.com/users/5880778/ypicard",
+   "views": "3 views"
+  },
+  {
+   "topic": "What's the easiest non-memory intensive way to output XML from Python?",
+   "url": "https://stackoverflow.com/questions/93710/whats-the-easiest-non-memory-intensive-way-to-output-xml-from-python",
+   "votes": "14",
+   "answers": "6",
+   "related_topics": "python xml streaming",
+   "author": "John Fouhy",
+   "author_url": "https://stackoverflow.com/users/15154/john-fouhy",
+   "views": "3k views"
+  },
+  {
+   "topic": "How to associated the cn in an ssl cert of pyOpenSSL verify_cb to a generated socket",
+   "url": "https://stackoverflow.com/questions/96508/how-to-associated-the-cn-in-an-ssl-cert-of-pyopenssl-verify-cb-to-a-generated-so",
+   "votes": "5",
+   "answers": "1",
+   "related_topics": "python pyopenssl",
+   "author": "Jean-Paul Calderone",
+   "author_url": "https://stackoverflow.com/users/18243/jean-paul-calderone",
+   "views": "687 views"
+  },
+  {
+   "topic": "Is there a pretty printer for python data?",
+   "url": "https://stackoverflow.com/questions/91810/is-there-a-pretty-printer-for-python-data",
+   "votes": "19",
+   "answers": "4",
+   "related_topics": "python prettify",
+   "author": "AdamKG",
+   "author_url": "https://stackoverflow.com/users/16361/adamkg",
+   "views": "11k views"
+  },
+  {
+   "topic": "Will everything in the standard library treat strings as unicode in Python 3.0?",
+   "url": "https://stackoverflow.com/questions/91205/will-everything-in-the-standard-library-treat-strings-as-unicode-in-python-3-0",
+   "votes": "11",
+   "answers": "3",
+   "related_topics": "python unicode string cgi python-3.x",
+   "author": "S.Lott",
+   "author_url": "https://stackoverflow.com/users/10661/s-lott",
+   "views": "444 views"
+  },
+  {
+   "topic": "How can I get Emacs' key bindings in Python's IDLE?",
+   "url": "https://stackoverflow.com/questions/55365/how-can-i-get-emacs-key-bindings-in-pythons-idle",
+   "votes": "6",
+   "answers": "3",
+   "related_topics": "python emacs ide keyboard",
+   "author": "Ray",
+   "author_url": "https://stackoverflow.com/users/4872/ray",
+   "views": "2k views"
+  },
+  {
+   "topic": "PythonWin's python interactive shell calling constructors twice?",
+   "url": "https://stackoverflow.com/questions/81191/pythonwins-python-interactive-shell-calling-constructors-twice",
+   "votes": "3",
+   "answers": "3",
+   "related_topics": "python activestate",
+   "author": "Community",
+   "author_url": "https://stackoverflow.com/users/-1/community",
+   "views": "979 views"
+  },
+  {
+   "topic": "Testing GUI code: should I use a mocking library?",
+   "url": "https://stackoverflow.com/questions/79454/testing-gui-code-should-i-use-a-mocking-library",
+   "votes": "7",
+   "answers": "3",
+   "related_topics": "python unit-testing user-interface tdd",
+   "author": "Community",
+   "author_url": "https://stackoverflow.com/users/-1/community",
+   "views": "1k views"
+  },
+  {
+   "topic": "How to check for memory leaks in Guile extension modules?",
+   "url": "https://stackoverflow.com/questions/78900/how-to-check-for-memory-leaks-in-guile-extension-modules",
+   "votes": "7",
+   "answers": "1",
+   "related_topics": "python memory-leaks valgrind guile",
+   "author": "Allen",
+   "author_url": "https://stackoverflow.com/users/6043/allen",
+   "views": "399 views"
+  },
+  {
+   "topic": "How do you create a weak reference to an object in Python?",
+   "url": "https://stackoverflow.com/questions/50923/how-do-you-create-a-weak-reference-to-an-object-in-python",
+   "votes": "9",
+   "answers": "1",
+   "related_topics": "python weak-references",
+   "author": "Blair Conrad",
+   "author_url": "https://stackoverflow.com/users/1199/blair-conrad",
+   "views": "809 views"
+  },
+  {
+   "topic": "Why does Python's iter() on a mapping return iterkeys() instead of iteritems()?",
+   "url": "https://stackoverflow.com/questions/35569/why-does-pythons-iter-on-a-mapping-return-iterkeys-instead-of-iteritems",
+   "votes": "9",
+   "answers": "1",
+   "related_topics": "python mapping iteration",
+   "author": "cdleary",
+   "author_url": "https://stackoverflow.com/users/3594/cdleary",
+   "views": "759 views"
+  },
+  {
+   "topic": "Where can a save confirmation page be hooked into the Django admin? (similar to delete confirmation)",
+   "url": "https://stackoverflow.com/questions/114283/where-can-a-save-confirmation-page-be-hooked-into-the-django-admin-similar-to",
+   "votes": "9",
+   "answers": "3",
+   "related_topics": "python django",
+   "author": "Huuuze",
+   "author_url": "https://stackoverflow.com/users/10040/huuuze",
+   "views": "2k views"
+  },
+  {
+   "topic": "How can I join a list into a string (caveat)?",
+   "url": "https://stackoverflow.com/questions/118458/how-can-i-join-a-list-into-a-string-caveat",
+   "votes": "5",
+   "answers": "3",
+   "related_topics": "python string list csv",
+   "author": "Community",
+   "author_url": "https://stackoverflow.com/users/-1/community",
+   "views": "1k views"
+  },
+  {
+   "topic": "Does an application-wide exception handler make sense?",
+   "url": "https://stackoverflow.com/questions/95642/does-an-application-wide-exception-handler-make-sense",
+   "votes": "11",
+   "answers": "6",
+   "related_topics": "python exception-handling",
+   "author": "Ignacio Vazquez-Abrams",
+   "author_url": "https://stackoverflow.com/users/20862/ignacio-vazquez-abrams",
+   "views": "945 views"
+  },
+  {
+   "topic": "Python-passing variable between classes",
+   "url": "https://stackoverflow.com/questions/113341/python-passing-variable-between-classes",
+   "votes": "3",
+   "answers": "5",
+   "related_topics": "python oop variables wxpython",
+   "author": "crystalattice",
+   "author_url": "https://stackoverflow.com/users/18676/crystalattice",
+   "views": "23k views"
+  },
+  {
+   "topic": "How do I create a non-standard type with SOAPpy?",
+   "url": "https://stackoverflow.com/questions/118467/how-do-i-create-a-non-standard-type-with-soappy",
+   "votes": "2",
+   "answers": "1",
+   "related_topics": "python web-services soap",
+   "author": "Harley Klein",
+   "author_url": "https://stackoverflow.com/users/19369/harley-klein",
+   "views": "834 views"
+  },
+  {
+   "topic": "Best practices for manipulating database result sets in Python?",
+   "url": "https://stackoverflow.com/questions/116894/best-practices-for-manipulating-database-result-sets-in-python",
+   "votes": "5",
+   "answers": "4",
+   "related_topics": "python database",
+   "author": "S.Lott",
+   "author_url": "https://stackoverflow.com/users/10661/s-lott",
+   "views": "3k views"
+  },
+  {
+   "topic": "What is the scope for imported classes in python?",
+   "url": "https://stackoverflow.com/questions/117127/what-is-the-scope-for-imported-classes-in-python",
+   "votes": "2",
+   "answers": "2",
+   "related_topics": "python import scope eval",
+   "author": "Torsten Marek",
+   "author_url": "https://stackoverflow.com/users/9567/torsten-marek",
+   "views": "1k views"
+  },
+  {
+   "topic": "Python and POST data",
+   "url": "https://stackoverflow.com/questions/117167/python-and-post-data",
+   "votes": "4",
+   "answers": "1",
+   "related_topics": "python http post",
+   "author": "Teifion",
+   "author_url": "https://stackoverflow.com/users/1384652/teifion",
+   "views": "6k views"
+  },
+  {
+   "topic": "How can I unit test responses from the webapp WSGI application in Google App Engine?",
+   "url": "https://stackoverflow.com/questions/107675/how-can-i-unit-test-responses-from-the-webapp-wsgi-application-in-google-app-eng",
+   "votes": "12",
+   "answers": "2",
+   "related_topics": "python unit-testing google-app-engine",
+   "author": "Steve",
+   "author_url": "https://stackoverflow.com/users/7424/steve",
+   "views": "3k views"
+  },
+  {
+   "topic": "Writing to the windows logs in Python",
+   "url": "https://stackoverflow.com/questions/113007/writing-to-the-windows-logs-in-python",
+   "votes": "13",
+   "answers": "1",
+   "related_topics": "python windows logging",
+   "author": "dF.",
+   "author_url": "https://stackoverflow.com/users/3002/df",
+   "views": "7k views"
+  },
+  {
+   "topic": "How would one log into a phpBB3 forum through a Python script using urllib, urllib2 and ClientCookie?",
+   "url": "https://stackoverflow.com/questions/112768/how-would-one-log-into-a-phpbb3-forum-through-a-python-script-using-urllib-urll",
+   "votes": "3",
+   "answers": "2",
+   "related_topics": "python post urllib",
+   "author": "jacobian",
+   "author_url": "https://stackoverflow.com/users/18184/jacobian",
+   "views": "3k views"
+  },
+  {
+   "topic": "How do I use genshi.builder to programmatically build an HTML document?",
+   "url": "https://stackoverflow.com/questions/112564/how-do-i-use-genshi-builder-to-programmatically-build-an-html-document",
+   "votes": "4",
+   "answers": "2",
+   "related_topics": "python html templates genshi",
+   "author": "John Millikin",
+   "author_url": "https://stackoverflow.com/users/3560/john-millikin",
+   "views": "2k views"
+  },
+  {
+   "topic": "Why unicode() uses str() on my object only with no encoding given?",
+   "url": "https://stackoverflow.com/questions/106630/why-unicode-uses-str-on-my-object-only-with-no-encoding-given",
+   "votes": "7",
+   "answers": "2",
+   "related_topics": "python unicode encoding",
+   "author": "Blair Conrad",
+   "author_url": "https://stackoverflow.com/users/1199/blair-conrad",
+   "views": "1k views"
+  },
+  {
+   "topic": "Anyone used Dabo for a medium-big project? [closed]",
+   "url": "https://stackoverflow.com/questions/56417/anyone-used-dabo-for-a-medium-big-project",
+   "votes": "19",
+   "answers": "2",
+   "related_topics": "python erp dabo",
+   "author": "Ed Leafe",
+   "author_url": "https://stackoverflow.com/users/19399/ed-leafe",
+   "views": "4k views"
+  },
+  {
+   "topic": "What's a good way to find relative paths in Google App Engine?",
+   "url": "https://stackoverflow.com/questions/61894/whats-a-good-way-to-find-relative-paths-in-google-app-engine",
+   "votes": "4",
+   "answers": "2",
+   "related_topics": "python google-app-engine",
+   "author": "Nick Johnson",
+   "author_url": "https://stackoverflow.com/users/12030/nick-johnson",
+   "views": "5k views"
+  }
+ ]
+}
